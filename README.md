@@ -1,4 +1,4 @@
-# Ion Qubit Measurement
+# Ion-Qubit Coherence Measurement
 ---------------
 We use ions prepared close to their ground states of motion (Doppler cooled) to investigate the interaction of a single qubit with a thermal bath which is simulated by using ion chain. The single qubit is coupled to neighbouring ions via exchaned phonon which are created due to the motion of the ions and propagate across the ion chain.   
 The experimental sequence (as descibed in the code) measures the coherence of the ion/qubit by probing the Rabi oscialltion of motional excitation (i.e., phonons/bosons) at certain interation time using pulsed laser tunned from the electronic transion of the ion (carrier) by an offest frequency equivalent to the trapping frequency of the ion. Such frequency well known as the blue/red sidebands with respect to the carrier.  
