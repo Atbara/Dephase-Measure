@@ -6,7 +6,7 @@ import time
 import labrad
 from labrad.units import WithUnit
 from numpy import linspace
-#The following command brinfgs the sequence plotter.
+#The following command brings the sequence plotter. Only needed for debuging or so
 #from common.okfpgaservers.pulser.pulse_sequences.plot_sequence import SequencePlotter
 
 class dephase_scan_duration(experiment):
